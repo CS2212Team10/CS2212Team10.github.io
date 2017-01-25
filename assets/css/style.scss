@@ -4,10 +4,11 @@
 @import "{{ site.theme }}";
 
 .nav li{
-  display: inline;
+    display: inline;
 }
 .nav{
     position:fixed;
     left:50%;
-    margin-left:-325px;
+    transform: translateX(-340px); 
+    width:100%
 }
