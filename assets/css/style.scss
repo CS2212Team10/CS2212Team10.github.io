@@ -6,3 +6,8 @@
 .nav li{
   display: inline;
 }
+.nav{
+    position:fixed;
+    left:50%;
+    margin-left:-325px;
+}
