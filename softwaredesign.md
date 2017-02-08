@@ -4,7 +4,7 @@ layout: default
 
 # Software Design
 
-TODO DESCRIPTION
+A description of the design of the software.
 
 ---
 
