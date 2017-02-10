@@ -1,5 +1,5 @@
-#Essential Features
-##Post Notes
+# Essential Features
+## Post Notes
 
 **Description:**  Each user can post notes and comment, rate and like on other peoples’ notes within the circles they have added themselves to. Notes can be posted as pictures, pdfs, word documents etc 
 
@@ -7,7 +7,7 @@
 
 **Dependency:** Failure to implement this feature will not affect the team’s ability to further implement other features but it will be a major hole in our project. This features gives purpose to our project.
 
-##Creating a profile
+## Creating a profile
 
 **Description:** Each user will be asked to create a profile, in which will have information about them and the circles they are part of
 
@@ -15,7 +15,7 @@
 
 *Dependency:** Failure to implement this feature will affect the team’s ability to future implement other features, since this will show who is commenting, rating and liking. 
 
-##Courses and Circles
+## Courses and Circles
 
 **Description:** Courses are aggregations of users and are the app’s representation of a class at Western. Circles are subgroups within courses which have the requirement that users be registered in the course to join the circle. Users post notes to a course or circle.
 
@@ -23,7 +23,7 @@
 
 **Dependency:** The posting feature depends on courses being implemented, as users can only post to courses they have joined. The newsfeed depends on circles to be functional as well, as a user’s list of circles determines what shows up on their newsfeed. 
 
-##Newsfeed
+## Newsfeed
 
 **Description:** A user’s newsfeed displays clickable icons linking to the most recent 20 posts made to any circle they have joined, in chronological order. It is similar to a Facebook timeline in that the most recent comments on a post are displayed beneath it, as well as its rating. The newsfeed is the home page when a user logs in.
 
@@ -31,8 +31,8 @@
 
 **Dependency:** Nothing builds on this feature or depends on it.
 
-#Extended Features
-##Professor Ratings
+# Extended Features
+## Professor Ratings
 
 **Description:** This extended feature build on user ratings by separating user and professor rating sections. A course has a single verified professor account attached to it which can rate notes or flag them to be removed.
 
@@ -40,7 +40,7 @@
 
 **Dependency:** Nothing builds on this feature or depends on it.
 
-##Authenticating user email
+## Authenticating user email
 
 **Description:** The email will be authenticated to check if it is a valid uwo email. This will help reduce plagiarism since it exposes one’s student identity
 
@@ -48,8 +48,8 @@
 
 **Dependency:** This is an extended feature, so poor/no implementation of this feature will not cause the project to fail
 
-#Optional Features
-##Text to Speech
+# Optional Features
+## Text to Speech
 
 **Description:** It is a helpful study tool where a PDF/word document uploaded will be read out loud by an automated voice This can help to study through verbally reading notes, textbooks etc.
 
@@ -57,7 +57,7 @@
 
 **Dependency:** This is an additional feature; the project will not be affected if this feature is not implemented
 
-##Search Engine
+## Search Engine
 
 **Description:** This is a feature to allow users to search for keywords in all of the notes in a circle.
 
