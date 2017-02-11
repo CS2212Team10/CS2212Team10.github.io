@@ -12,9 +12,8 @@ A description of the design of the software.
 
 ### Domains
 
----
 ![Domain UML Diagram](assets/images/domainumldiagram.png "Domain UML Diagram")
+
 ### Controllers
 
----
 ![Controller UML Diagram](assets/images/controllerumldiagram.png "Controller UML Diagram")
