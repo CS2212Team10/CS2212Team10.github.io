@@ -24,7 +24,7 @@ Hi, my name is Justin Kim and I am from London, Ontario. I am a third year stude
 Gabe Keenleyside. Comp sci/physics student. Avid Sriracha sauce user. Can balance on both feet, both one at a time and together.
 
 ### Cameron Nicolle
-![Cameron](assets/images/cameron.JPG)
+![Cameron](assets/images/cameron.jpg)
 
 My name is Cameron Nicolle I'm from London. I'm a second year computer science student. I have experience in C, C++, Java, Python and web development. I have a particular interest in operating system, web development development.
 
@@ -41,6 +41,6 @@ I’m Paul Li, a jack-of-all trades when it comes to programming. Currently in m
 "Failure is an option here. If things are not failing, you are not innovating enough." – Elon Musk
 
 ### Priya Kumaresan
-![Priya](assets/images/priya.JPG)
+![Priya](assets/images/priya.jpg)
 
 Hi my name is Priya Kumaresan! I’m currently in the second year of my program and I’m hoping to specialize in Computer Science. As for my skills, I have previously programmed in Python, Java, and C and I’m currently learning JavaScript, Ruby, and Haskell. I have also learned to use Unix operating system. I love to play badminton, dance, and bake!
