@@ -51,7 +51,7 @@ On the top of the page in the center would display alerts to grab the users atte
 
 Here, the user will have to use an university email to help authenticate the user and a profile picture for their account. 
 
-![Email Authentication Page Layout](\assets\images\authorize.png "Email Authentication layout")
+![Email Authentication Page Layout](assets/images/authorize.png "Email Authentication layout")
 
 After the user created the account the website has to wait for the authentication. 
 
