@@ -1,3 +1,36 @@
+# Stage 2 Features
+## User Accounts
+
+**Description:**  Users create a profile based on their name, email, and password, which then adds them to the default group. User accounts can be added and deleted (but not yet modified). 
+
+**Feasibility:** The feature gives purpose to the social media aspect of this application. Creating a profile gives identity to who posts and stars notes.
+
+**Dependency:** Failure to implement this feature will affect the team’s ability to future implement other features, since this will show who is commenting, rating and liking.
+
+## Notes
+
+**Description:**  Users can post notes to the default circle. Posts can be added and deleted (but not yet modified). 
+
+**Feasibility:** This feature gives users the ability to post and share notes. This feature requires the creation of a profile, since the notes need to be identified from who its coming from.
+
+**Dependency:** Failure to implement this feature will not affect the team’s ability to further implement other features but it will be a major hole in our project. 
+
+## Default Group
+
+**Description:**  As a precursor to the circles and courses organization, we have a single group that all users are added to and to which notes can be posted.  
+
+**Feasibility:** When completed with courses and circles, this feature will be the defining aspect of the app, as it organizes the notes so users can find them and tailor their experience of the app. The only requirements of this feature are maintaining lists of users and posts, allowing users to join and drop courses/circles (adding/removing themselves from the lists), and adding/removing posts from a circle. It relies on users being implemented.
+
+**Dependency:** The posting feature depends on courses being implemented, as users can only post to courses they have joined. The newsfeed depends on circles to be functional as well, as a user’s list of circles determines what shows up on their newsfeed.
+
+## Stars
+
+**Description:**  Users can add a star to a post (similar to a “like” on Facebook), and can remove that star. Only one star can be added to a post per user. 
+
+**Feasibility:** This feature is non-essential and just adds an extra element to the social aspect of the app.
+
+**Dependency:** This feature depends on Users and Posts being implemented, but no current features depend on it. 
+
 # Essential Features
 
 ## Post Notes
