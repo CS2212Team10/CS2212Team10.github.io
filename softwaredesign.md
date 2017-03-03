@@ -17,3 +17,9 @@ A description of the design of the software.
 ### Controllers
 
 ![Controller UML Diagram](assets/images/controllerumldiagram.png "Controller UML Diagram")
+
+## Stage 2
+
+The current state of the software in stage 2
+
+![Stage 2 UML Diagram](assets/images/umldiagramstage2.png "Stage 2 UML Diagram")
