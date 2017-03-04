@@ -25,7 +25,7 @@
 
 ## Stars
 
-**Description:**  Users can add a star to a post (similar to a “like” on Facebook), and can remove that star. Only one star can be added to a post per user. 
+**Description:**  Stars can be added to and removed from posts (similar to “likes” on Facebook). Only one star can be added to a post per user. Existing stars are displayed, although at present users cannot star posts through the UI.
 
 **Feasibility:** This feature is non-essential and just adds an extra element to the social aspect of the app.
 
