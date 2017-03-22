@@ -17,7 +17,7 @@
 
 ## User Groups (Courses and Circles)
 
-**Description:**  Users can create courses, which represent a course at Western, as well as circles which are aggregations of users who are all in a course. Users can also join courses and circles created by others. 
+**Description:**  Users can create courses, which represent a course at Western, as well as circles which are aggregations of users who are all in a course. Users can also join courses and circles created by others. Circles are subgroups within courses which have the requirement that users be registered in the course to join the circle. Users post notes to a course or circle. 
 
 **Feasibility:** This feature is the defining aspect of the app, as it organizes the notes so users can find them and tailor their experience of the app. The only requirements of this feature are maintaining lists of users and posts, allowing users to join and drop courses/circles (adding/removing themselves from the lists), and adding/removing posts from a circle. It relies on users being implemented.
 
@@ -74,7 +74,11 @@
 
 **Dependency:** This feature depends on Users and Posts being implemented, but no current features depend on it. 
 
+
+
+
 ---
+
 
 # Essential Features
 
