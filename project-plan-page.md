@@ -37,7 +37,8 @@
 
 **Feasibility:** This feature modifies how all other features are implemented from the backend (ie. how content is accessed and created/deleted). It will be implemented using Spring Security Service. 
 
-**Dependency:** This feature is a modification of existing features in order to make them more secure. It requires Users to be implemented. 
+**Dependency:** This feature is a modification of existing features in order to make them more secure. It requires Users to be implemented.
+
 ---
 
 # Stage 2 Features
