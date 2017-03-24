@@ -3,21 +3,21 @@
 
 **Description:**  Users create a profile based on their name, email, and password, which then adds them to the default group. User accounts can be added and deleted. 
 
-**Feasibility:** The feature gives purpose to the social media aspect of this application. Creating a profile gives identity to who posts and stars notes.
+**Feasibility:** The feature facilitates the social media aspect of this application. Creating a profile identifies users.
 
-**Dependency:** Failure to implement this feature will affect the team’s ability to future implement other features, since this will show who is commenting, rating and liking.
+**Dependency:** Failure to implement this feature will affect the team’s ability to implement other features, as this identifies who is commenting, rating and liking.
 
 ## Notes
 
-**Description:**  Users can post notes to the any circle or course that they are a part of. Posts can be added and deleted. 
+**Description:**  Users can post notes to any circle or course that they are a part of. Posts can be added and deleted. 
 
-**Feasibility:** This feature gives users the ability to post and share notes. This feature requires the creation of a profile, since the notes need to be identified from who its coming from.
+**Feasibility:** This feature gives users the ability to post and share notes. It requires the creation of a profile, since the notes need to be identified by the users who create them.
 
 **Dependency:** Failure to implement this feature will not affect the team’s ability to further implement other features but it will be a major hole in our project. 
 
 ## User Groups (Courses and Circles)
 
-**Description:**  Users can create courses, which represent a course at Western, as well as circles which are aggregations of users who are all in a course. Users can also join courses and circles created by others. Circles are subgroups within courses which have the requirement that users be registered in the course to join the circle. Users post notes to a course or circle. 
+**Description:**  Users can create courses, which represent a course at Western, as well as circles which are aggregations of users who are all in a course. Users can also join courses and circles created by others. Circles are subgroups within courses which have the requirement that users be registered in the related course to join the circle. Users post notes to a course or circle. 
 
 **Feasibility:** This feature is the defining aspect of the app, as it organizes the notes so users can find them and tailor their experience of the app. The only requirements of this feature are maintaining lists of users and posts, allowing users to join and drop courses/circles (adding/removing themselves from the lists), and adding/removing posts from a circle. It relies on users being implemented.
 
@@ -33,9 +33,9 @@
 
 ## Security
 
-**Description:** Anyone can create an account, but they must be logged in (as verified by a token) in order to post, comment, star or view content in their groups. Users cannot contribute to or see content from groups they are not a part of, and they cannot delete content (stars, comments, posts, groups) that they did not create. 
+**Description:** Anyone can create an account, but they must be logged in to post, comment, star or view content in their groups. Users cannot contribute to or see content from groups they are not a part of, and they cannot delete content (stars, comments, posts, groups) that they did not create. 
 
-**Feasibility:** This feature modifies how all other features are implemented from the backend (ie. how content is accessed and created/deleted). It will be implemented using Spring Security Service. 
+**Feasibility:** This feature modifies how all other features are implemented (ie. how content is accessed and created/deleted). It will be implemented using Spring Security Service. 
 
 **Dependency:** This feature is a modification of existing features in order to make them more secure. It requires Users to be implemented.
 
