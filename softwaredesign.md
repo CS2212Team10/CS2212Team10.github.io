@@ -23,3 +23,9 @@ A description of the design of the software.
 The current state of the software in stage 2
 
 ![Stage 2 UML Diagram](assets/images/umldiagramstage2.png "Stage 2 UML Diagram")
+
+## Stage 3
+
+The current state of the software in stage 3
+
+![Stage 3 UML Diagram](assets/images/umldiagramstage3.png "Stage 3 UML Diagram")
