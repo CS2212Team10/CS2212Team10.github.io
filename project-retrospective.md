@@ -1,5 +1,5 @@
 # Project Retrospective
-
+[![Demo Video on YouTube](http://i.imgur.com/jwGjIur.png)](https://www.youtube.com/watch?v=PebcfiGmSSc "Demo Video on YouTube")
 ## Workflow
 Branching Model and Process
 
