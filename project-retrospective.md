@@ -1,6 +1,21 @@
 # Project Retrospective
-
+[![Demo Video on YouTube](http://i.imgur.com/jwGjIur.png)](https://www.youtube.com/watch?v=PebcfiGmSSc "Demo Video on YouTube")
 ## Workflow
+Branching Model and Process
+
+* Each member in the group has his or her own dev branch that can be pushed and pulled anytime. 
+* Any pull to the dev branch should be reviewed and approved by a peer member. 
+* Any approved changes would be saved temporarily in the dev branch, and
+* Master branch only contains code that are error-free and ready to be reviewed. 
+
+Development tool: IntelliJ IDEA Ultimate
+
+Framework: Grails, AngularJS, Spring Security and Spring Security REST API
+
+Task Distribution Management
+* Members were divided evenly between frontend and backend
+* Basic tasks were distributed to reduce redundant code
+* As build complexity increased, distribution of tasks was dependent on member’s coding capabilities.
 
 ## MVC Design Patterns
 
