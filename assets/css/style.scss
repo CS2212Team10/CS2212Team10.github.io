@@ -3,11 +3,13 @@
 
 @import 'jekyll-theme-leap-day';
 
-
+#banner{
+  margin-right: -480px;
+}
 
 #banner .nav {
   position: fixed;
-  left: 50%;
+  left: 45%;
   transform: translateX(-340px);
   width: 100%;
   margin-right: 100px;
